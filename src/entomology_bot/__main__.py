@@ -2,7 +2,7 @@ import praw
 import yaml
 import logging
 
-ACTIVE_SUBREDDIT = "thirdegree"
+ACTIVE_SUBREDDIT = "bugidentification"
 
 logging.basicConfig(level=logging.INFO)
 
